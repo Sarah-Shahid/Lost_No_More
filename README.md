@@ -1,4 +1,4 @@
-# SEMESTER PROJECT FINAL REPORT
+# Tech-Driven Community Solutions
 
 
 ---
